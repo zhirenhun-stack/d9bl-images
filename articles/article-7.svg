@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="400">
+  <rect width="800" height="400" fill="#162240"/>
+  <circle cx="400" cy="180" r="80" fill="none" stroke="#2563EB" stroke-width="0.8" opacity="0.15"/>
+  <circle cx="400" cy="180" r="40" fill="none" stroke="#3b82f6" stroke-width="0.6" opacity="0.12"/>
+  <circle cx="400" cy="180" r="10" fill="#2563EB" opacity="0.25"/>
+  <text x="400" y="300" text-anchor="middle" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="22" font-weight="600">P2P甲基苯丙胺的主要问题在于供应量实在太大（2021）</text>
+  <text x="400" y="340" text-anchor="middle" fill="#64748B" font-family="system-ui,sans-serif" font-size="13" letter-spacing="4">AI · TECHNOLOGY</text>
+</svg>
